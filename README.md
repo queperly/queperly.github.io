@@ -1,4 +1,2 @@
 # queperly.github.io
-the page of all time :)))))
-
-gerald
+the page of all time
